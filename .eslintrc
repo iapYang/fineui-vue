@@ -1,3 +1,6 @@
 {
-    "extends": "./node_modules/iapyang-eslint/.eslintrc"
+    "extends": "./node_modules/iapyang-eslint/.eslintrc",
+    "plugins": [
+        "html"
+    ]
 }
