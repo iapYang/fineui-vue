@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/iapYang/fineui-vue/issues"
   },
-  "homepage": "https://github.com/iapYang/fineui-vue#readme"
+  "homepage": "https://github.com/iapYang/fineui-vue#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.12.0",
+    "iapyang-eslint": "^1.0.1"
+  }
 }
